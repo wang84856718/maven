@@ -5,4 +5,8 @@ public class HelloWord {
         System.out.println("你好");
         System.out.println("中国");
     }
+
+    public void show(){
+        System.out.println("itheima");
+    }
 }
