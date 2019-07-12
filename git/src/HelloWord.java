@@ -4,6 +4,7 @@ public class HelloWord {
         System.out.println("asfdaf");
         System.out.println("你好");
         System.out.println("中国");
+        System.out.println("长城");
     }
 
     public void show(){
