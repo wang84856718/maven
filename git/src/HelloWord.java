@@ -7,6 +7,7 @@ public class HelloWord {
         System.out.println("长城");
         System.out.println("斗宗强者恐怖如斯");
         System.out.println("what are you doing");
+        System.out.println("诺克萨斯之手");
     }
 
     public void show(){
